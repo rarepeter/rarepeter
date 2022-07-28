@@ -1,6 +1,4 @@
-Peter, currently coding
+# Peter, currently coding :computer:
 
-<!---
-rarepeter/rarepeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### If you would like to collaborate, contact me via e-mail: **petrugamali@gmail.com**
+### The code from all of my public repositories is free to use and explore
