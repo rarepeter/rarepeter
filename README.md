@@ -1,9 +1,7 @@
 # Peter, currently coding :computer:
 
 ### Full stack developer, Typescript, NestJS, ReactJS
-If you would like to collaborate, contact me via e-mail: **contact@petergamali.com** 📧
-My personal website: <a href='https://petergamali.com'>**petergamali.com 🌐**</a>
-The code from all of my public repositories is free to use and explore! 👨‍💻
+If you would like to collaborate, contact me via e-mail: **contact@petergamali.com**. My personal website is <a href='https://petergamali.com'>**petergamali.com 🌐**</a>.
 
 ## Technology stack
 
