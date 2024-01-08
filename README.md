@@ -6,12 +6,11 @@
 
 # Technology stack
 
-<img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /><img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /><img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /><img style="width: 50px;" src="https://mobx.js.org/assets/mobx.png" />
-
+I mainly use NestJS and ReactJS. I have worked with NextJS, ExpressJS and currently exploring the .NET framework.
 
 # Tools stack
 
-<img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img style="width: 50px;" src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/1.16.7/1658310685331/Microsoft.VisualStudio.Services.Icons.Default" />
+I use Visual Studio Code with useful extensions to facilitate my developer experience. I have mostly worked with Figma for designing web projects. I use API testing tools such as Postman and Thunder Client.
 
 
 
