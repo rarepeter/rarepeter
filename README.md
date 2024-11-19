@@ -3,9 +3,9 @@ If you would like to collaborate, contact me via e-mail: **contact@petergamali.c
 
 ## Technology stack
 
-### Front-end: 
+### Front end: 
 ReactJS, Tailwind, Typescript, NextJS, Javascript, SCSS/SASS, HTML.
-### Back-end
+### Back end
 NestJS, ExpressJS, cloud technologies (Amazon Web Services, Google Cloud Platform). NoSQL databases (MongoDB, Firestore), SQL databases (PostgreSQL, MySQL), message queues (Kafka, BullMQ, RabbitMQ).
 ### DevOps
 Github Actions, CI/CD pipelines, Docker, Docker Compose, Terraform.
